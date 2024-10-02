@@ -1,5 +1,6 @@
 # Dyslipidemia-EHR
 ## Repository Structure
+- **data_final.csv**: physical examination data.
 - **data_processing.py**: This file is responsible for data preprocessing. It includes functions for cleaning, transforming, and preparing the input data for modeling.
 
 - **feature_extra.py**: This file is dedicated to feature extraction. It contains methods for extracting relevant features from the preprocessed data. These features are crucial for building the anomaly detection model.
